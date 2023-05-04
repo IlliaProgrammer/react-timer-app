@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6b239b50.css","mappings":"AAAA,YAEI,oBAAqB,CADrB,WAGJ,CAEA,UACI,oBAAqB,CACrB,WACJ","sources":["App.css"],"sourcesContent":[".timer-time {\n    width: 100px;\n    background-color: red;\n    \n}\n\n.progress {\n    background-color: red;\n    height: 10px;\n}"],"names":[],"sourceRoot":""}
